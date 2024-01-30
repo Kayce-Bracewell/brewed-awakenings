@@ -1,0 +1,50 @@
+body {
+    background-color: lightslategray;
+}
+
+h1 {
+    text-align: center;
+}
+
+.booking-spot {
+    border: 1px dotted black;
+    text-align: center;
+    width: auto;
+    background-color: antiquewhite;
+}
+
+.booking-items {
+    padding: 5px 0;
+    list-style-type: none;
+}
+
+.venue-spot {
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    border: 2px solid cadetblue;
+    text-align: center;
+    background-color: bisque;
+    height: auto;
+}
+
+.venue-band-container {
+    display: flex;
+}
+
+.venue-items {
+    padding: 10px 0;
+}
+
+.band-spot {
+    width: 50%;
+    border: 2px solid cadetblue;
+    text-align: center;
+    background-color: bisque;
+    height: auto;
+}
+
+.band-list-item {
+    padding: 10px 0;
+    list-style-type: none;
+}
